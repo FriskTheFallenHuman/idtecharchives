@@ -28,9 +28,6 @@ logo: "/assets/IdTech4_Logo.svg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://friskthefallenhuman.github.io/idtecharchives/ # the base hostname & protocol for your site, e.g. http://example.com
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
 # Build settings
 theme: just-the-docs
 plugins:
