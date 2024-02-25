@@ -23,7 +23,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Do you want to do x thing in Idtech4?, do you happen to not find
   What you want?, Look no more, i hate when information is lost
   so i made this page to save has much information has i can.
-logo: "/assets/IdTech4_Logo.svg"
+color_scheme: dark
+
+gh_edit_repository: "https://github.com/FriskTheFallenHuman/idtecharchives"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://friskthefallenhuman.github.io/idtecharchives/ # the base hostname & protocol for your site, e.g. http://example.com
