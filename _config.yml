@@ -30,6 +30,32 @@ gh_edit_repository: "https://github.com/FriskTheFallenHuman/idtecharchives"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://friskthefallenhuman.github.io/idtecharchives/ # the base hostname & protocol for your site, e.g. http://example.com
 
+# Callouts
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+  todo:
+    title: TODO
+    color: blue
+  quake4:
+    title: Quake IV Only
+    color: yellow
+  prey06:
+    title: Prey 2006 Only
+    color: blue
+
 # Build settings
 theme: just-the-docs
 plugins:
