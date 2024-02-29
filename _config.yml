@@ -51,10 +51,19 @@ callouts:
     color: blue
   quake4:
     title: Quake IV Only
-    color: yellow
+    color: quake4
+  etqw:
+    title: Enemy Territory - Quake Wars Only
+    color: quake4
   prey06:
     title: Prey 2006 Only
-    color: blue
+    color: prey06
+  doom3:
+    title: Doom 3 Only
+    color: doom3
+  wolf09:
+    title: Wolfstein (2009)
+    color: wolf09
 
 # Build settings
 theme: just-the-docs

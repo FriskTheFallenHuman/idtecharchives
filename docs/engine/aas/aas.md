@@ -6,7 +6,6 @@ has_children: true
 nav_order: 1
 ---
 
-# Navigation Structure
 {: .no_toc }
 
 <details open markdown="block">
