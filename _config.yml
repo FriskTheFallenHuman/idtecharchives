@@ -61,6 +61,9 @@ callouts:
   doom3:
     title: Doom 3 Only
     color: doom3
+  doom3bfg:
+    title: Doom 3 BFG Edition Only
+    color: doom3
   wolf09:
     title: Wolfstein (2009)
     color: wolf09

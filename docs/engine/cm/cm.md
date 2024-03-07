@@ -35,8 +35,8 @@ From this point the `.cm` file must be named and placed in the same directory as
 # Note
 
 {: .etqw}
-> Enemy Territory: Quake Wars encrypt its files so its hard to see what change and what not.
-> Encrypted models has the post fix of `b` in this case `.cm**b**`
+> Enemy Territory: Quake Wars binarizes its files so its hard to see what change and what not.
+> Binarize models has the post fix of `b` in this case `.cmb`
 
 {: .wolf09}
 > This system is deprecated in Wolfstein (2009)
