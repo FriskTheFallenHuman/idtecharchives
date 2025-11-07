@@ -46,3 +46,5 @@ This wiki/archival couldn't be possible by the works of the sites:
 
 - [Doom Archives](http://doomarchives.com/)
 - [ModWiki](https://modwiki.dhewm3.org/)
+- [icculus.org](https://icculus.org/)
+- [The Darkmod Wiki](https://wiki.thedarkmod.com/index.php?title=Main_Page)

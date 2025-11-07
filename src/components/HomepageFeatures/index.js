@@ -22,9 +22,7 @@ const FeatureList = [
     title: "Prey (2006)",
     Svg: require("@site/static/img/prey.svg").default,
     description: (
-      <>
-        Documentation for Prey (2006) and its rather interesting developtment.
-      </>
+      <>Documentation for Prey (2006) and its rather interesting development.</>
     ),
   },
 ];

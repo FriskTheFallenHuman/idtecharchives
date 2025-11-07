@@ -33,7 +33,7 @@ Animated cameras for use in cut scenes.
       - `MD5MESH` compressed into a binary format. (.BMD5MESH)
       - `MD5ANIM` compressed into a binary format. (.BMD5ANIM)
   </TabItem>
-  <TabItem value="etqw" label="Enemy Territory:QW">
+  <TabItem value="etqw" label="Enemy Territory: Quake Wars">
       Unlike Quake IV, ET:QW reverted the approach that Quake IV did and instead of hardcode paths
       it now uses:
 
