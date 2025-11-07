@@ -47,3 +47,15 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Notification
+        uses: sarisia/actions-status-discord@v1
+        if: always()
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          status: ${{ job.status }}
+          title: "deploy"
+          description: "Deploy to GitHub Pages"
+          color: 0x0000ff
+          url: "https://friskthefallenhuman.github.io/idtecharchives/"
+          username: GitHub Web Deployment
