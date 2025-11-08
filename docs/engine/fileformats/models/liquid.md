@@ -2,8 +2,6 @@
 description: Liquid Model (.liquid)
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 import ReactPlayer from "react-player";
 
 # Liquid Model (.liquid)
